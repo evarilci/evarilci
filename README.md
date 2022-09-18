@@ -1,16 +1,40 @@
-### Hi there 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=400&color=04ECF0&center=false&width=700&lines=Hello+there!+%F0%9F%96%96;Welcome+to+my+profile;I'm+Eymen+;I+am+iOS+and+Swift+enthusiast!">
+</a>
 
-<!--
-**evarilci/evarilci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=evarilci&label=Profile%20views&color=0e75b6&style=flat" alt="evarilci" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <a href="https://twitter.com/evarilci69" target="blank"><img src="https://img.shields.io/twitter/follow/evarilci69?logo=twitter&style=for-the-badge" alt="evarilci69" /></a> </p>
+
+---
+- 👨‍🎓 I have graduated from Hacettepe University with bachelor's degree of philology.
+
+- 🤩 My hobbies are **Underwater Hockey, Scuba diving 🤿 and Heavy Metal 🤘.**
+
+- 🔭 I’m currently a Swift student at **Pazarama iOS Swift Bootcamp - Patika.dev**
+
+- 👓 I’m currently learning **UIKit, SwiftUI**
+
+- 💬 Ask me about **iOS and Swift**
+
+- 📫 If you want to reach me **evarilci@gmail.com**
+
+- ⚡ Fun fact: **Coffee running through my veins**
+
+---
+
+<h3 align="left">I'm also here:</h3>
+<p align="left">
+<a href="https://twitter.com/evarilci69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="evarilci69" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/@varilci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@varilci" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/evarilci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="evarilci" height="30" width="40" /></a>
+</p>
+
+---
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evarilci&theme=dark" alt="evarilci" /></p>
