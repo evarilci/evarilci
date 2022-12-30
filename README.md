@@ -12,7 +12,7 @@
 
 - 🤩 My hobbies are **Underwater Hockey, Scuba diving 🤿 and Heavy Metal 🤘.**
 
-- 🔭 I have complete **Pazarama iOS Swift Bootcamp - Patika.dev**
+- 🔭 I have completed **Pazarama iOS Swift Bootcamp - Patika.dev**
 
 - 👓 I’m currently learning **UIKit, SwiftUI**
 
