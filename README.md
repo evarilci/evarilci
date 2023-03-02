@@ -9,6 +9,8 @@
 
 ---
 - 👨‍🎓 I have graduated from Hacettepe University with bachelor's degree of philology.
+ 
+- 💻 I'm currently working at Neon Apps 
 
 - 🤩 My hobbies are **Underwater Hockey, Scuba diving 🤿 and Heavy Metal 🤘.**
 
