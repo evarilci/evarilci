@@ -29,7 +29,7 @@
 <h3 align="left">I'm also here:</h3>
 <p align="left">
 <a href="https://twitter.com/evarilci69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="evarilci69" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/@varilci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@varilci" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/varilci/?locale=en_US" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@varilci" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/evarilci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="evarilci" height="30" width="40" /></a>
 </p>
 
