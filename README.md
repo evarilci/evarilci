@@ -18,7 +18,7 @@
 
 - 👓 I’m currently learning **SwiftUI, Unity**
 
-- 💬 Ask me about **iOS, Swift and especially UIKit **
+- 💬 Ask me about **iOS, Swift and especially UIKit**
 
 - 📫 If you want to reach me **evarilci@gmail.com**
 
