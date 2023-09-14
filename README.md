@@ -16,9 +16,9 @@
 
 - 🔭 I have completed **Pazarama iOS Swift Bootcamp - Patika.dev** - https://verified.sertifier.com/en/verify/44252555183670?ref=email
 
-- 👓 I’m currently learning **UIKit, SwiftUI**
+- 👓 I’m currently learning **SwiftUI, Unity**
 
-- 💬 Ask me about **iOS and Swift**
+- 💬 Ask me about **iOS, Swift and especially UIKit **
 
 - 📫 If you want to reach me **evarilci@gmail.com**
 
