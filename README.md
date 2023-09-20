@@ -39,4 +39,4 @@
 <p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=evarilci&theme=dark&hide_border=true&border_radius=20)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=evarilci)](https://git.io/streak-stats)
