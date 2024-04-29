@@ -14,9 +14,9 @@
 
 - 🤩 My hobbies are **Underwater Hockey, Scuba diving 🤿 and Heavy Metal 🤘.**
 
-- 🔭 I have completed **Pazarama iOS Swift Bootcamp - Patika.dev** - https://verified.sertifier.com/en/verify/44252555183670?ref=email
+- 🔭 I am currently working as lead iOS developer at **Neon Apps** - https://neonapps.co/
 
-- 👓 I’m currently learning **SwiftUI, Unity**
+- 👓 I’m currently learning **SwiftUI and Spatial Computing**
 
 - 💬 Ask me about **iOS, Swift and especially UIKit**
 
