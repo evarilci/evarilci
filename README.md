@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=400&color=04ECF0&center=false&width=700&lines=Hello+there!+%F0%9F%96%96;Welcome+to+my+profile;I'm+Eymen+;I+am+iOS+and+Swift+enthusiast!">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=400&color=04ECF0&center=false&width=700&lines=Hello+there!+%F0%9F%96%96;Welcome+to+my+jungle;I'm+Eymen+;I+am+iOS+and+Swift+enthusiast!">
 </a>
 
 ---
